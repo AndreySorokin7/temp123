@@ -1,0 +1,1 @@
+float calc(float num1, float num2, char operation);
